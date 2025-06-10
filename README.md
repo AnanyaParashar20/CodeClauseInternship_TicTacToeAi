@@ -36,6 +36,3 @@ A Tic Tac Toe game with an AI opponent using Pygame and NumPy.
 ```bash
 python main.py
 
-## Acknowledgements
-
-- This project was developed as part of the CodeClause Internship.
